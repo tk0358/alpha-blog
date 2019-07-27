@@ -1,0 +1,15 @@
+current directory: /mnt/c/Code/rails/the-complete-ruby-on-rails-developer-course/rails_projects/alpha-blog/vendor/cache/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+/usr/bin/ruby2.5 -r ./siteconf20190728-1031-1ee0nej.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Code/rails/the-complete-ruby-on-rails-developer-course/rails_projects/alpha-blog/vendor/cache/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Code/rails/the-complete-ruby-on-rails-developer-course/rails_projects/alpha-blog/vendor/cache/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /mnt/c/Code/rails/the-complete-ruby-on-rails-developer-course/rails_projects/alpha-blog/vendor/cache/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20190728-1031-1hg10wc

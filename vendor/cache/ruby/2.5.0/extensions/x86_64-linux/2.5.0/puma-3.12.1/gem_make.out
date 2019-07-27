@@ -1,0 +1,20 @@
+current directory: /mnt/c/Code/rails/the-complete-ruby-on-rails-developer-course/rails_projects/alpha-blog/vendor/cache/ruby/2.5.0/gems/puma-3.12.1/ext/puma_http11
+/usr/bin/ruby2.5 -r ./siteconf20190728-1031-k8rk42.rb extconf.rb
+checking for BIO_read() in -lcrypto... no
+checking for BIO_read() in -llibeay32... no
+creating Makefile
+
+current directory: /mnt/c/Code/rails/the-complete-ruby-on-rails-developer-course/rails_projects/alpha-blog/vendor/cache/ruby/2.5.0/gems/puma-3.12.1/ext/puma_http11
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Code/rails/the-complete-ruby-on-rails-developer-course/rails_projects/alpha-blog/vendor/cache/ruby/2.5.0/gems/puma-3.12.1/ext/puma_http11
+make "DESTDIR="
+compiling http11_parser.c
+compiling io_buffer.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.so
+
+current directory: /mnt/c/Code/rails/the-complete-ruby-on-rails-developer-course/rails_projects/alpha-blog/vendor/cache/ruby/2.5.0/gems/puma-3.12.1/ext/puma_http11
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20190728-1031-1n8v3lx/puma
